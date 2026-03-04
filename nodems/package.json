@@ -1,0 +1,21 @@
+{
+  "name": "nodems",
+  "version": "1.0.0",
+  "description": "Testing first node package aap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "btp",
+    "sourav",
+    "node",
+    "test"
+  ],
+  "author": "sourav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "EmployeeID": "E1001",
+    "FirstName": "Michael",
+    "LastName": "Scott",
+    "Email": "michael@company.com",
+    "Phone": "+1-555-1111",
+    "Department": "Sales",
+    "Designation": "Manager",
+    "Status": "Active"
+  },
+  {
+    "EmployeeID": "E1002",
+    "FirstName": "Pam",
+    "LastName": "Beesly",
+    "Email": "pam@company.com",
+    "Phone": "+1-555-2222",
+    "Department": "HR",
+    "Designation": "Executive",
+    "Status": "Active"
+  },
+  {
+    "EmployeeID": "E1003",
+    "FirstName": "Raj",
+    "LastName": "Malhotra",
+    "Email": "raj@company.in",
+    "Phone": "+91-9876512345",
+    "Department": "IT",
+    "Designation": "Developer",
+    "Status": "Active"
+  },
+  {
+    "EmployeeID": "E1004",
+    "FirstName": "Anita",
+    "LastName": "Sharma",
+    "Email": "anita@company.in",
+    "Phone": "+91-9123412345",
+    "Department": "Finance",
+    "Designation": "Accountant",
+    "Status": "Inactive"
+  },
+  {
+    "EmployeeID": "E1005",
+    "FirstName": "David",
+    "LastName": "Miller",
+    "Email": "david@company.com",
+    "Phone": "+1-555-3333",
+    "Department": "Operations",
+    "Designation": "Supervisor",
+    "Status": "Active"
+  }
+]

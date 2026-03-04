@@ -1,0 +1,52 @@
+[
+  {
+    "VendorID": "V10001",
+    "VendorName": "ABC Supplies Ltd.",
+    "ContactPerson": "John Miller",
+    "Email": "john@abcsupplies.com",
+    "Phone": "+1-555-1234",
+    "City": "New York",
+    "Country": "USA",
+    "Status": "Active"
+  },
+  {
+    "VendorID": "V10002",
+    "VendorName": "Global Industrial Corp.",
+    "ContactPerson": "Emma Watson",
+    "Email": "emma@globalind.com",
+    "Phone": "+44-20-4567",
+    "City": "London",
+    "Country": "UK",
+    "Status": "Active"
+  },
+  {
+    "VendorID": "V10003",
+    "VendorName": "Tech Parts Solutions",
+    "ContactPerson": "Raj Kumar",
+    "Email": "raj@techparts.in",
+    "Phone": "+91-9876543210",
+    "City": "Bangalore",
+    "Country": "India",
+    "Status": "Active"
+  },
+  {
+    "VendorID": "V10004",
+    "VendorName": "Prime Logistics",
+    "ContactPerson": "Anita Sharma",
+    "Email": "anita@primelog.com",
+    "Phone": "+91-9123456789",
+    "City": "Mumbai",
+    "Country": "India",
+    "Status": "Inactive"
+  },
+  {
+    "VendorID": "V10005",
+    "VendorName": "Office Essentials Co.",
+    "ContactPerson": "David Brown",
+    "Email": "david@officeess.com",
+    "Phone": "+1-555-6789",
+    "City": "Chicago",
+    "Country": "USA",
+    "Status": "Active"
+  }
+]

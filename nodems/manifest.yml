@@ -1,0 +1,8 @@
+applications:
+- name: souravnodems
+  memory: 256M
+  disk-quota: 512M
+  instances: 3
+  buildpacks:
+    - nodejs_buildpack
+  random-route: true

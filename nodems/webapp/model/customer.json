@@ -1,0 +1,52 @@
+[
+  {
+    "CustomerID": "C10001",
+    "CustomerName": "Sunrise Retailers",
+    "ContactPerson": "Mark Lee",
+    "Email": "mark@sunrise.com",
+    "Phone": "+1-555-4444",
+    "City": "Los Angeles",
+    "Country": "USA",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C10002",
+    "CustomerName": "TechNova Solutions",
+    "ContactPerson": "Priya Mehta",
+    "Email": "priya@technova.in",
+    "Phone": "+91-9988776655",
+    "City": "Mumbai",
+    "Country": "India",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C10003",
+    "CustomerName": "Green Valley Stores",
+    "ContactPerson": "Lucas Green",
+    "Email": "lucas@greenvalley.ca",
+    "Phone": "+1-555-5555",
+    "City": "Toronto",
+    "Country": "Canada",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C10004",
+    "CustomerName": "Bright Future Traders",
+    "ContactPerson": "Ahmed Khan",
+    "Email": "ahmed@brightfuture.ae",
+    "Phone": "+971-50-1234567",
+    "City": "Dubai",
+    "Country": "UAE",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C10005",
+    "CustomerName": "Skyline Enterprises",
+    "ContactPerson": "Chen Wei",
+    "Email": "chen@skyline.sg",
+    "Phone": "+65-81234567",
+    "City": "Singapore",
+    "Country": "Singapore",
+    "Status": "Active"
+  }
+]
